@@ -25,7 +25,7 @@ interface MainPage {
     String buttonSearch();
 }
 
-public class MethodInterception {
+public class MethodInterceptionTest {
 
     @Test
     public void annotationValue() {
